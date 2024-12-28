@@ -13,28 +13,6 @@ This Car Rental Website is a web application developed using PHP, HTML, and CSS.
 - **Reservation System**: Users can make, view, and cancel reservations.
 - **Admin Panel**: Manage cars, users, and reservations.
 
-## Installation
-
-To set up the Car Rental Website on your local machine, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/carrental.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd carrental
-    ```
-
-3. **Set up the database**:
-    - Import the provided `database.sql` file into your MySQL database.
-    - Update the database configuration in `config.php` with your database credentials.
-
-4. **Run the application**:
-    - Ensure your web server (Apache/Nginx) and PHP are properly set up.
-    - Place the project files in your web server's root directory.
-    - Open your web browser and navigate to `http://localhost/carrental`.
 
 ## Usage
 
